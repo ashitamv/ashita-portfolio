@@ -7,7 +7,7 @@ My personal portfolio website showcasing my software engineering experience, bac
 - Light & Dark themes.
 
 **Built With:**
-HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
 **Run locally:**
 - Clone / Download this repository.
